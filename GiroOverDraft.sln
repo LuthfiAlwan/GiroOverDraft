@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiroOverDraft", "GiroOverDraft\GiroOverDraft.csproj", "{6963933F-5F08-498A-A9AF-B2DCC29707AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6963933F-5F08-498A-A9AF-B2DCC29707AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6963933F-5F08-498A-A9AF-B2DCC29707AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6963933F-5F08-498A-A9AF-B2DCC29707AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6963933F-5F08-498A-A9AF-B2DCC29707AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2DF341-276B-4218-8F66-16E02CADECD3}
+	EndGlobalSection
+EndGlobal
